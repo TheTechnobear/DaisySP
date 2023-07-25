@@ -27,6 +27,7 @@ Source/Effects/reverbsc.cpp
 Source/Effects/phaser.cpp
 Source/Effects/sampleratereducer.cpp
 Source/Effects/tremolo.cpp
+Source/Effects/wavefolder.cpp
 Source/Filters/allpass.cpp
 Source/Filters/atone.cpp
 Source/Filters/biquad.cpp
@@ -36,6 +37,7 @@ Source/Filters/moogladder.cpp
 Source/Filters/nlfilt.cpp
 Source/Filters/svf.cpp
 Source/Filters/tone.cpp
+Source/Filters/soap.cpp
 Source/Noise/clockednoise.cpp
 Source/Noise/grainlet.cpp
 Source/Noise/particle.cpp

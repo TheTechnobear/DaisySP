@@ -40,7 +40,8 @@ overdrive \
 phaser \
 reverbsc \
 sampleratereducer \
-tremolo 
+tremolo \
+wavefolder
 #pitchshifter 
 
 FILTER_MOD_DIR = Filters
@@ -53,7 +54,8 @@ mode \
 moogladder \
 nlfilt \
 svf \
-tone 
+tone \
+soap 
 #fir
 
 NOISE_MOD_DIR = Noise

@@ -47,6 +47,7 @@
 #include "Effects/pitchshifter.h"
 #include "Effects/sampleratereducer.h"
 #include "Effects/tremolo.h"
+#include "Effects/wavefolder.h"
 
 /** Filter Modules */
 #include "Filters/allpass.h"
@@ -59,6 +60,7 @@
 #include "Filters/svf.h"
 #include "Filters/tone.h"
 #include "Filters/fir.h"
+#include "Filters/soap.h"
 
 /** Noise Modules */
 #include "Noise/clockednoise.h"
